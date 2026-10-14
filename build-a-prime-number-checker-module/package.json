@@ -1,0 +1,21 @@
+{
+  "name": "build-a-prime-number-checker-module",
+  "version": "1.0.0",
+  "description": "check prime number",
+  "keywords": [
+    "prime",
+    "number",
+    "cheker"
+  ],
+  "repository": {
+    "type": "git",
+    "url": "-"
+  },
+  "license": "MIT",
+  "author": "Radhesa Kilat Buwana",
+  "type": "commonjs",
+  "main": "index.js",
+  "scripts": {
+    "test": "node index.test.js"
+  }
+}
